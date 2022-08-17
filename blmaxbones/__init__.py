@@ -3,7 +3,7 @@ bl_info = {
     "description": "Copy animation between different armature by bone constrain",
     "author": "Jonas",
     "version": (1,0,1),
-    "blender": (2, 93, 0),
+    "blender": (3, 0, 0),
     "location": "View 3D > Toolshelf",
     "doc_url": "",
     "tracker_url": "",
